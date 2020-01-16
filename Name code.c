@@ -1,9 +1,10 @@
 #Include <stdio.h>
 int name(void){
 var name = Jack;
-
-printf(My Name is %d", name);
-
+var major = Mechanical Engineering;
+printf("My Name is %d"\n, name);
+printf("My Major is %d", major);
+       
 return 0;
 }
 
