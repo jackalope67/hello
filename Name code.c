@@ -6,7 +6,7 @@ printf("My Name is %d", name);
 printf("My Major is %d", major);
 
 
-       printf("Jared Wurgler");
-       printf("Electrical Engineering");
+ printf("Jared Wurgler");
+ printf("Electrical Engineering");
 return 0;
 }
